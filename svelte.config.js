@@ -21,9 +21,6 @@ const config = {
 			fallback: 'index.html',
 			precompress: false
 		}),
-		paths: {
-			base: '/project-fms'
-		}
 	}
 };
 
